@@ -56,7 +56,7 @@
 
 RabbitMQ使用的是：队列模型，它通过Exchange配置的策略来决定消息传到哪个队列中
 
-![](D:/program-workplace/github_place/Java-Web/images/m1.png)
+![](../images/m1.png)
 
 ### RocketMQ,Kafka的消息模型 
 
@@ -93,72 +93,5 @@ RocketMQ的消费机制：生产者发送消息给服务端（Broker），服务
 
 
 waiting for 05
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
